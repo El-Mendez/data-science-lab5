@@ -3,3 +3,5 @@ numpy
 matplotlib
 nltk
 textblob
+seaborn
+wordcloud
